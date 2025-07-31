@@ -1,21 +1,18 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Como configurar/instalar/usar o `BleachBit` no `Linux Ubuntu`
+# # Como configurar/instalar/usar o `XMind` no `Linux Ubuntu`
 # 
 # ## Resumo
 # 
-# Neste documento estao contidos os principais comandos e configuracoes para configurar/instalar/usar o `BleachBit` no `Linux Ubuntu`.
+# Neste documento estao contidos os principais comandos e configuracoes para configurar/instalar/usar o `XMind` no `Linux Ubuntu`.
 # 
 # ## _Abstract_
 # 
-# _This document contains the main commands and settings for configuring/installing/using `BleachBit` on `Linux Ubuntu`._
-
-# In[ ]:
+# _This document contains the main commands and settings for configuring/installing/using `XMind` on `Linux Ubuntu`._
 
 
 ## 2. Configurar/Instalar/usar o `Git` [1]
-
 
 # ## 1. Instalar o `pdftotext` no `Linux Ubuntu`
 # 
@@ -71,25 +68,21 @@
 #     sudo apt install poppler-utils
 #     pdftotext -v
 #     ```
-# 
 
-# 2. Instale o `BleachBit` atraves do gerenciador de pacotes:
+# 2. Instale o `XMind` atraves do gerenciador de pacotes (snap):
 #    ```bash
-#    sudo apt install bleachbit -y
+#    sudo snap install xmind
 #    ```
-# 3. Execute o `BleachBit` via interface grafica ou pelo terminal:
+# 3. Execute o `XMind` via interface grafica ou pelo terminal:
 #    ```bash
-#    bleachbit
-#    ```
-#    Para executar como administrador (permitindo uma limpeza mais profunda):
-#    ```bash
-#    sudo bleachbit
+#    xmind
 #    ```
 
 # ### Dicas adicionais
 # 
-# O `BleachBit` possui diversas opcoes de limpeza. Explore as categorias disponiveis e marque apenas o que deseja remover. Sempre revise as opcoes antes de executa-las para evitar a exclusao de dados importantes.
+# O `XMind` eh uma ferramenta de mapeamento mental. Explore os recursos disponiveis para criar mapas mentais.
 
 # ## Referencias
 # 
-# [1] OPENAI. ***Instalar BleachBit no Ubuntu***. Acessado em: 31/07/2024.
+# [1] OPENAI. ***Instalar XMind no Ubuntu***. Acessado em: 31/07/2024.
+# [2] ChatGPT. ***Como instalar xmind no Linux Ubuntu***. Acessado em: <indisponivel>.
